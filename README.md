@@ -14,7 +14,7 @@
 
 <!-- - 📫 Write on Email: **its.mixture@gmail.com** -->
 
-- ⚡ Something **Learning web2 for the web3**
+- 🎉 Learning web2 for the web3
 
 <h1 align="center">💻 Tech Stack:</h1>
 
