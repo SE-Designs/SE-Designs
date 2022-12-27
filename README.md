@@ -10,9 +10,9 @@
 
 - ⚡ In future, I want to learn React, Nextjs and Nestjs
 
-- 💬 Reach me on Telegram: [mixturegg](t.me/mixturegg)
+<!-- - 💬 Reach me on Telegram: [mixturegg](t.me/mixturegg) -->
 
-- 📫 Write on Email: **its.mixture@gmail.com**
+<!-- - 📫 Write on Email: **its.mixture@gmail.com** -->
 
 - ⚡ Something **Learning web2 for the web3**
 
