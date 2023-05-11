@@ -4,9 +4,11 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Some cool projects**
+- 🔭 I’m currently working on **some cool projects**
 
-- 🎉 Learning **web2 for the web3**
+- ⚡ YOLO some text will be here
+
+- 🎉 Want to learn **web2 for the web3**
 
 <h1 align="center">💻 Tech Stack:</h1>
 
@@ -23,73 +25,5 @@
 <a href="http://www.github.com/se-designs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=se-designs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 100%;" /></a>
 
 <a href="http://www.github.com/se-designs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=se-designs&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=SE-Designs%20Contiribution%20Graph" alt="GitHub Commits Graph" style="width: 100%;" /></a>
-
-<details>
-<summary><h3 align="left">⚡ Summer Super Challenge: [2023]</h3></summary>
-
-1. Repeat Basics: [5]
-    - [ ] CSS Grid & Flexbox for Responsive Layouts, v2 [Folder]
-    - [ ] [Learn javacript](https://learn.javascript.ru/) [Website]
-    - [ ] Interactive Animations with CSS and JavaScript [Folder]
-    - [ ] DevelopedByED - The Ultimate JavaScript Animation Course [Folder]
-    - [ ] Git Course [Folder]
-
-2. Repeat Advanced: [12]
-    - [ ] [React JS course](https://www.youtube.com/watch?v=GNrdg3PzpJQ) [Video series]
-    - [ ] [Vue 3](https://www.youtube.com/watch?v=1GNsWa_EZdw) [Video series]
-    - [ ] Vue 3 Fundamentals [Folder]
-    - [ ] Nuxt 3 Fundamentals [Folder]
-    - [ ] [Nuxt 3](https://www.youtube.com/watch?v=dZC4T4UiU1c) [Video series]
-    - [ ] TypeScript Fundamentals, v3 [Folder]
-    - [ ] TypeScript and Vue 3 [Folder]
-    - [ ] [React Full Course 9hrs](https://www.youtube.com/watch?v=RVFAyFWO4go) [Video series]
-    - [ ] [React Typecript](https://www.youtube.com/watch?v=92qcfeWxtnY) [Video series]
-    - [ ] React and TypeScript, v2 [Folder]
-    - [ ] [React x Typescript](https://www.youtube.com/watch?v=92qcfeWxtnY) [Video series]
-    - [ ] [React & Redux & TypeScript](https://www.youtube.com/watch?v=ETWABFYv0GM) [Video series]
-    
-3. Deep dive: [14]
-    - [ ] [MERN Course](https://www.youtube.com/watch?v=CvCiNeLnZ00)
-    - [ ] Fullstack TypeScript [Folder]
-    - [ ] Intermediate TypeScript [Folder]
-    - [ ] EpicReact [Website]
-    - [ ] [Vue 3 by GitLab](https://www.youtube.com/watch?v=0MEpPU3rWCk&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=22) [Video series]
-    - [ ] [GraphQL](https://www.youtube.com/watch?v=7zEaHr_iJjA) [Video series]
-    - [ ] [Next Frame Motion](https://www.youtube.com/watch?v=yAChXBQt2ow) [Video series]
-    - [ ] Redux Full course [Video series]
-    - [ ] MongoDB [Video series]
-    - [ ] Node & Express [Video series]
-    - [ ] React Hooks [Video series]
-    - [ ] [RTK Query](https://www.youtube.com/watch?v=Od5H_CiU2vM) [Video series]
-    - [ ] Nuxt x Vue on steroids [Folder]
-    - [ ] [Middle Next + Nest](https://www.youtube.com/watch?v=_oR1p79t6gw&t=55s) [Video series]
-    - [ ] Production-Grade Next.js [Folder]
-
-4. Projects: [12]
-    - [ ] [React Sneakers Junior](https://www.youtube.com/watch?v=ptiom4YWqoE&list=PL0FGkDGJQjJEos_0yVkbKjsQ9zGVy3dG7) [Video series]
-    - [ ] [GraphQL x React](https://www.youtube.com/watch?v=BcLNfwF04Kw) [Video series]
-    - [ ] [Nuxt 3, Tailwind, Laravel 4](https://www.youtube.com/watch?v=CHSL0Btbj_o) [Video series]
-    - [ ] [MERN Blog](https://www.youtube.com/watch?v=GQ_pTmcXNrQ&t=3031s) [Video series]
-    - [ ] [React Spotify Clone](https://www.youtube.com/watch?v=I1cpb0tYV74) [Video series]
-    - [ ] [React Node.js Video Sharing App](https://www.youtube.com/watch?v=CCF-xV3RSSs) [Video series]
-    - [ ] [React Pizza](https://www.youtube.com/watch?v=_UywBskWJ7Q) [Video series]
-    - [ ] [Twitter Nuxt 3](https://www.youtube.com/watch?v=_cM4j9_LfQk&t=284s) [Video series]
-    - [ ] [Youtube Clone Next](https://www.youtube.com/watch?v=QUY_sazqgkY) [Video series]
-    - [ ] [Airbnb Next Clone](https://www.youtube.com/watch?v=c_-b_isI4vg&t=37s) [Video series]
-    - [ ] [MERN Employees](https://www.youtube.com/watch?v=KSh1WB92u0o&t=25624s) [Video series]
-    - [ ] [TJournal Pre-Middle](https://www.youtube.com/watch?v=spqO-jPs0sc&list=PL0FGkDGJQjJH8uKAWtvvd1aI2Poo-TXGD) [Video series]
-    <!-- https://www.youtube.com/watch?v=VsUzmlZfYNg&t=44s -->
-    <!-- https://www.youtube.com/watch?v=unS_sgCnHHA -->
-    <!-- https://www.youtube.com/watch?v=2728N597QHQ -->
-    <!-- https://www.youtube.com/watch?v=L3u0L67m-oc -->
-    <!-- https://www.youtube.com/watch?v=qK1ENlEucpc -->
-
-<!-- 5. Real Projects: []
-    - [ ] Colorify
-    - [ ] EduFinder
-    - [ ] NextLevel
-    - [ ] [Web IDE](https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/) -->
-
-</details>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
