@@ -26,4 +26,14 @@
 
 <a href="http://www.github.com/se-designs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=se-designs&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=SE-Designs%20Contiribution%20Graph" alt="GitHub Commits Graph" style="width: 100%;" /></a>
 
+name: Waka Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
