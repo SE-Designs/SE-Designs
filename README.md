@@ -26,6 +26,18 @@
 
 <a href="http://www.github.com/se-designs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=se-designs&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=SE-Designs%20Contiribution%20Graph" alt="GitHub Commits Graph" style="width: 100%;" /></a>
 
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
