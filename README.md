@@ -39,6 +39,15 @@
 ```
 
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js       2 hrs 3 mins    ██████████████████▓░░░░░░   74.89 %
+SCSS         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
