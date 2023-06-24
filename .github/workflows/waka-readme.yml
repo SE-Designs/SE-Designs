@@ -3,11 +3,11 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "*/10 * * * *" # runs every 10 minutes
+    - cron: "0 0 * * *" # runs every day at 00:00 UTC
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime stats
+    name: Update Readme with WakaTime and GitHub stats
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -17,4 +17,21 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          STATS: "languages"
           SHOW: 10
+
+      - name: Update README with GitHub commits stats
+        uses: platane/snk@v0.0.18
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          stats: commits
+          include_all_branches: true
+          custom_title: My GitHub Commit Stats
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with Wakatime and GitHub stats"
+          git push
