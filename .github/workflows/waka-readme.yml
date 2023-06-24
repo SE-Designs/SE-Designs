@@ -23,7 +23,7 @@ jobs:
       - name: Update README with GitHub commits stats
         uses: platane/snk@v0.0.18
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           stats: commits
           include_all_branches: true
           custom_title: My GitHub Commit Stats
