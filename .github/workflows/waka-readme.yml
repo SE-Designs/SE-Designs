@@ -27,11 +27,3 @@ jobs:
           stats: commits
           include_all_branches: true
           custom_title: My GitHub Commit Stats
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with Wakatime and GitHub stats"
-          git push
