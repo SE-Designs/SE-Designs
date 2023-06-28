@@ -13,12 +13,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Fetch WakaTime Stats
+        id: wakatime_stats
+        run: |
+          data=$(curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}")
+          weekdays=$(echo "$data" | jq -r '.data[].range.text')
+          day=$(echo "$data" | jq -r '.data[].range.date')
+          projects=$(echo "$data" | jq -r '.data[].projects')
+          commits=$(echo "$data" | jq -r '.data[].total_seconds')
+          echo "::set-output name=weekdays::$weekdays"
+          echo "::set-output name=day::$day"
+          echo "::set-output name=projects::$projects"
+          echo "::set-output name=commits::$commits"
+
       - name: Update README with WakaTime stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           STATS: "languages"
           SHOW: 10
+          custom_stats: "weekday, day, projects, commits"
+          weekday: ${{ steps.wakatime_stats.outputs.weekdays }}
+          day: ${{ steps.wakatime_stats.outputs.day }}
+          projects: ${{ steps.wakatime_stats.outputs.projects }}
+          commits: ${{ steps.wakatime_stats.outputs.commits }}
 
       - name: Update README with GitHub commits stats
         uses: platane/snk@v0.0.18
