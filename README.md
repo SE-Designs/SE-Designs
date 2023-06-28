@@ -41,7 +41,7 @@
                                                                                            /_/                   
 ```
 
-<!--START_SECTION:waka-->
+**Languages**:<!--START_SECTION:waka-->
 
 ```txt
 JavaScript   14 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   47.30 %
@@ -52,6 +52,18 @@ SCSS         1 hr 12 mins    █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+**Weekdays**: <!-- waka-box start -->
+<!-- waka-box end -->
+
+**Day**: <!-- waka-box start -->
+<!-- waka-box end -->
+
+**Projects**: <!-- waka-box start -->
+<!-- waka-box end -->
+
+**Commits**: <!-- waka-box start -->
+<!-- waka-box end -->
 
 <!--START_SECTION:commit-->
 <!--END_SECTION:commit-->
