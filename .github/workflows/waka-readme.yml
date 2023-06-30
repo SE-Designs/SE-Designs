@@ -27,15 +27,12 @@ jobs:
           echo "::set-output name=projects::$projects"
 
       - name: Update README with WakaTime stats
-        uses: athul/waka-readme@master
+        uses: athul/waka-readme@v11
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          STATS: "languages"
           SHOW: 10
-          custom_stats: "weekday, day_commits, projects"
-          weekday: ${{ steps.wakatime_stats.outputs.weekdays }}
-          day_commits: ${{ steps.wakatime_stats.outputs.day_commits }}
-          projects: ${{ steps.wakatime_stats.outputs.projects }}
+          STATS: "languages"
+          CUSTOM_STATS: "weekdays, day_commits, projects"
 
       - name: Update README with GitHub commits stats
         uses: platane/snk@v0.0.18
