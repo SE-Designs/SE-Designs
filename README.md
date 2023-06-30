@@ -41,23 +41,24 @@
                                                                                            /_/                   
 ```
 
-**Languages**:<!--START_SECTION:top_lang-->
-<!--END_SECTION:top_lang-->
+**Languages**:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **Weekdays**:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- waka-box start -->
+<!-- waka-box end -->
 
-**Day**:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Day Commits**:
+<!-- waka-box start -->
+<!-- waka-box end -->
 
 **Projects**:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- waka-box start -->
+<!-- waka-box end -->
 
-**Commits**:
-<!--START_SECTION:github-->
-<!--END_SECTION:github-->
+<!--START_SECTION:commit-->
+<!--END_SECTION:commit-->
+
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
