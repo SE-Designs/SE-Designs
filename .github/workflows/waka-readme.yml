@@ -20,7 +20,7 @@ jobs:
           weekdays=$(echo "$data" | jq -r '.data[].range.text')
           day=$(echo "$data" | jq -r '.data[].range.date')
           projects=$(echo "$data" | jq -r '.data[].projects')
-          commits=$(echo "$data" | jq -r '.data[].total_seconds')
+          commits=$(echo "$data" | jq -r '.data[].grand_total.hours')
           echo "::set-output name=weekdays::$weekdays"
           echo "::set-output name=day::$day"
           echo "::set-output name=projects::$projects"
