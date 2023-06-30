@@ -46,16 +46,16 @@
 <!--END_SECTION:waka-->
 
 **Weekdays**:
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!--START_SECTION:weekdays-->
+<!--END_SECTION:weekdays-->
 
 **Day Commits**:
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!--START_SECTION:day-->
+<!--END_SECTION:day-->
 
 **Projects**:
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!-- START_SECTION:projects-->
+<!-- END_SECTION:projects-->
 
 <!--START_SECTION:commit-->
 <!--END_SECTION:commit-->
