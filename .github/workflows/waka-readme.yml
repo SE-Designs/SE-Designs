@@ -1,43 +1,24 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs every day at 00:00 UTC
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime and GitHub stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Fetch WakaTime Stats
-        id: wakatime_stats
-        run: |
-          data=$(curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}")
-          languages=$(echo "$data" | jq -r '.data.languages[0:10] | map(.name) | join(", ")')
-          weekdays=$(echo "$data" | jq -r '.data.categories[0].times | map(.digital) | join(", ")')
-          day_commits=$(echo "$data" | jq -r '.data.intervals[0].intervals | map(.commits) | join(", ")')
-          projects=$(echo "$data" | jq -r '.data.projects[0:5] | map(.name + ": " + .text) | join("\n")')
-          echo "::set-output name=languages::$languages"
-          echo "::set-output name=weekdays::$weekdays"
-          echo "::set-output name=day_commits::$day_commits"
-          echo "::set-output name=projects::$projects"
-
-      - name: Update README with WakaTime stats
-        uses: athul/waka-readme@v11
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW: 10
-          STATS: "languages"
-          CUSTOM_STATS: "weekdays, day_commits, projects"
-
-      - name: Update README with GitHub commits stats
-        uses: platane/snk@v0.0.18
-        with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
-          stats: commits
-          include_all_branches: true
-          custom_title: My GitHub Commit Stats
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "False"
