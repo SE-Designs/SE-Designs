@@ -41,24 +41,7 @@
                                                                                            /_/                   
 ```
 
-**Languages**:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-**Weekdays**:
-<!--START_SECTION:weekdays-->
-<!--END_SECTION:weekdays-->
-
-**Day Commits**:
-<!--START_SECTION:day-->
-<!--END_SECTION:day-->
-
-**Projects**:
-<!-- START_SECTION:projects-->
-<!-- END_SECTION:projects-->
-
-<!--START_SECTION:commit-->
-<!--END_SECTION:commit-->
-
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
