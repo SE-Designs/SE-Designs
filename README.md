@@ -41,31 +41,23 @@
                                                                                            /_/                   
 ```
 
-**Languages**:<!--START_SECTION:waka-->
+**Languages**:<!--START_SECTION:top_lang-->
+<!--END_SECTION:top_lang-->
 
-```txt
-JavaScript   14 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   47.30 %
-Vue.js       8 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.80 %
-Markdown     2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Bash         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-SCSS         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-```
-
+**Weekdays**:
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-**Weekdays**: <!-- waka-box start -->
-<!-- waka-box end -->
+**Day**:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-**Day**: <!-- waka-box start -->
-<!-- waka-box end -->
+**Projects**:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-**Projects**: <!-- waka-box start -->
-<!-- waka-box end -->
-
-**Commits**: <!-- waka-box start -->
-<!-- waka-box end -->
-
-<!--START_SECTION:commit-->
-<!--END_SECTION:commit-->
+**Commits**:
+<!--START_SECTION:github-->
+<!--END_SECTION:github-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
