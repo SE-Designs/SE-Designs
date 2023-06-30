@@ -32,11 +32,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           STATS: "languages"
           SHOW: 10
-          custom_stats: "weekday, day, projects, commits"
-          weekday: ${{ steps.wakatime_stats.outputs.weekdays }}
-          day: ${{ steps.wakatime_stats.outputs.day }}
-          projects: ${{ steps.wakatime_stats.outputs.projects }}
-          commits: ${{ steps.wakatime_stats.outputs.commits }}
+          CUSTOM_STATS: "weekday, day, projects, commits"
+          WEEKDAY: ${{ steps.wakatime_stats.outputs.weekdays }}
+          DAY: ${{ steps.wakatime_stats.outputs.day }}
+          PROJECTS: ${{ steps.wakatime_stats.outputs.projects }}
+          COMMITS: ${{ steps.wakatime_stats.outputs.commits }}
 
       - name: Update README with GitHub commits stats
         uses: platane/snk@v0.0.18
