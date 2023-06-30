@@ -17,14 +17,14 @@ jobs:
         id: wakatime_stats
         run: |
           data=$(curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}")
-          weekdays=$(echo "$data" | jq -r '.data[].range.text')
-          day=$(echo "$data" | jq -r '.data[].range.date')
-          projects=$(echo "$data" | jq -r '.data[].projects')
-          commits=$(echo "$data" | jq -r '.data[].grand_total.hours')
+          languages=$(echo "$data" | jq -r '.data.languages[0:10] | map(.name) | join(", ")')
+          weekdays=$(echo "$data" | jq -r '.data.categories[0].times | map(.digital) | join(", ")')
+          day_commits=$(echo "$data" | jq -r '.data.intervals[0].intervals | map(.commits) | join(", ")')
+          projects=$(echo "$data" | jq -r '.data.projects[0:5] | map(.name + ": " + .text) | join("\n")')
+          echo "::set-output name=languages::$languages"
           echo "::set-output name=weekdays::$weekdays"
-          echo "::set-output name=day::$day"
+          echo "::set-output name=day_commits::$day_commits"
           echo "::set-output name=projects::$projects"
-          echo "::set-output name=commits::$commits"
 
       - name: Update README with WakaTime stats
         uses: athul/waka-readme@master
@@ -32,11 +32,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           STATS: "languages"
           SHOW: 10
-          CUSTOM_STATS: "weekday, day, projects, commits"
-          WEEKDAY: ${{ steps.wakatime_stats.outputs.weekdays }}
-          DAY: ${{ steps.wakatime_stats.outputs.day }}
-          PROJECTS: ${{ steps.wakatime_stats.outputs.projects }}
-          COMMITS: ${{ steps.wakatime_stats.outputs.commits }}
+          custom_stats: "weekday, day_commits, projects"
+          weekday: ${{ steps.wakatime_stats.outputs.weekdays }}
+          day_commits: ${{ steps.wakatime_stats.outputs.day_commits }}
+          projects: ${{ steps.wakatime_stats.outputs.projects }}
 
       - name: Update README with GitHub commits stats
         uses: platane/snk@v0.0.18
