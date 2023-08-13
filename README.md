@@ -42,7 +42,7 @@
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-988.6%20thousand%20lines%20of%20code-blue)
 
@@ -73,16 +73,15 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 39 mins       ████████████████████░░░░░   81.67 % 
-SCSS                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Vue.js                   5 hrs 25 mins       █████████████████████░░░░   85.10 % 
+SCSS                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🐱‍💻 Projects: 
-frontend                 6 hrs 55 mins       █████████████████████████   100.00 % 
+frontend                 6 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -98,7 +97,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2023 02:11:12 UTC
+ Last Updated on 13/08/2023 02:13:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
