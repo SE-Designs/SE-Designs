@@ -40,7 +40,7 @@
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -71,14 +71,17 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         █████████████████████████   98.67 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               3 hrs 38 mins       ███████████████████████░░   92.59 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-mix.codes                1 hr 6 mins         █████████████████████████   100.00 % 
+mix.codes                3 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
+Linux                    3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -94,7 +97,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2024 02:27:58 UTC
+ Last Updated on 22/01/2024 02:28:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
