@@ -71,13 +71,17 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              ██████████████████████░░░   89.70 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ansible_project          4 mins              █████████████████████████   98.40 % 
+frontendV4               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -93,7 +97,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2024 02:45:47 UTC
+ Last Updated on 16/10/2024 02:47:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
