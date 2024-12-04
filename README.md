@@ -40,7 +40,7 @@
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -71,15 +71,16 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████░░░░░░░░░░░░   53.96 % 
-Text                     12 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               58 mins             ████████████████████░░░░░   81.79 % 
+Text                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-statisticians            27 mins             █████████████████████████   100.00 % 
+statisticians            1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -95,7 +96,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2024 03:00:00 UTC
+ Last Updated on 04/12/2024 02:58:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
