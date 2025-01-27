@@ -71,19 +71,13 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 28 mins       ██████████████░░░░░░░░░░░   57.86 % 
-Markdown                 1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-platform                 3 hrs 1 min         ██████████████████░░░░░░░   70.77 % 
-vue-crypto               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-frontend-test-task       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -99,7 +93,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2025 02:41:27 UTC
+ Last Updated on 27/01/2025 02:41:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
