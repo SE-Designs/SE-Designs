@@ -71,17 +71,13 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 7 mins        ██████████████░░░░░░░░░░░   55.55 % 
-TypeScript               1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nuxt-blog                3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -97,7 +93,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 03:07:26 UTC
+ Last Updated on 02/04/2025 02:56:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
