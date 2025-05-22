@@ -40,8 +40,6 @@
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C509%20hrs%2052%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -97,7 +95,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 03:07:08 UTC
+ Last Updated on 22/05/2025 03:07:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
