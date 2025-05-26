@@ -71,17 +71,13 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-HTML                     30 mins             ████████████░░░░░░░░░░░░░   48.31 % 
-TypeScript               22 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-alpine-playroom          1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -97,7 +93,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2025 03:14:43 UTC
+ Last Updated on 26/05/2025 03:11:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
