@@ -103,20 +103,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Vue                      29 repos            ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-TypeScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-HTML                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Vue                      29 repos            ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+HTML                     23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
 
 
- Last Updated on 27/04/2026 04:59:34 UTC
+ Last Updated on 28/04/2026 05:22:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=se-designs&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in) -->
